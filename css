@@ -1,0 +1,25 @@
+<link rel="stylesheet" href="https://e-journal.hamzanwadi.ac.id/lib/pkp/styles/pkp.css" type="text/css" />
+	<link rel="stylesheet" href="https://e-journal.hamzanwadi.ac.id/lib/pkp/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="https://e-journal.hamzanwadi.ac.id/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="https://e-journal.hamzanwadi.ac.id/styles/compiled.css" type="text/css" />
+
+	<!-- Base Jquery -->
+	<script type="text/javascript" src="//www.google.com/jsapi"></script>
+		<script type="text/javascript">
+			<!--
+			// Provide a local fallback if the CDN cannot be reached
+			if (typeof google == 'undefined') {
+				document.write(unescape("%3Cscript src='https://e-journal.hamzanwadi.ac.id/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+				document.write(unescape("%3Cscript src='https://e-journal.hamzanwadi.ac.id/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+			} else {
+				google.load("jquery", "1.4.4");
+				google.load("jqueryui", "1.8.6");
+			}
+			// -->
+		</script>
+	
+	
+	
+	<link rel="stylesheet" href="https://e-journal.hamzanwadi.ac.id/styles/sidebar.css" type="text/css" />		<link rel="stylesheet" href="https://e-journal.hamzanwadi.ac.id/styles/rightSidebar.css" type="text/css" />	
+			<link rel="stylesheet" href="https://e-journal.hamzanwadi.ac.id/public/journals/2/journalStyleSheet.css" type="text/css" />
+	
